@@ -1,5 +1,3 @@
-# pylint: disable=consider-using-with
-
 from abc import ABC, abstractmethod
 from logging import getLogger
 from multiprocessing import cpu_count

@@ -1,5 +1,3 @@
-# pylint: disable=no-self-use
-
 from multiprocessing.pool import Pool
 from typing import Any, Iterable, Optional, TypeVar, Union
 
